@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ChatWithX<br>👯 I’m looking to collaborate on ChatWithX<br>🤝 I’m looking for help with ChatWithX<br>🌱 I’m currently learning AI/ML<br>
+🔭 I’m currently Studying MCA.<br>👯 I’m looking to collaborate on YT management platform.<br>🤝 I’m looking for help with frontend of YT platform.<br>🌱 I’m currently learning YouTube APIs<br>
 
 
 # 💻 Tech Stack:
